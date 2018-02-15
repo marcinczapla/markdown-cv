@@ -1,91 +1,47 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Marcin Czapla CV
+footer: I hereby give my consent to have my personal data included in the submitted documents processed by BLStream S.A., intive GmbH, intive inc., and by their customers, as deemed necessary for the purposes of the recruitment process, including processing such data in the future for the same purposes. I hereby confirm that my consent is given voluntarily and that I am aware of the rights granted to me under Personal Data Protection Act of 29 August, 1997 (Dz.U. 2016 r. item 922, as amended)
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Marcin Czapla
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="czapla.m@gmail.com">czapla.m@gmail.com</a>|<a href="http://www.marcinczapla.com">www.marcinczapla.com</a><br/>
+Agatowa 16/48|20-571 Lublin|+48601478085
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`02.2015 - now`
+__Mobica Limited Sp. z o.o. - Senior software engineer__
+- Processing large data volumes for one of the map vendors using Apache Spark on Amazon AWS (EMR, S3, EC2).
+- Api Gateway for one of the Europe largest telecoms (Spring, Hystrix, RXJava).
 
-### Specialized in
+`08.2007 – 01.2015`
+__Infinite Sp. z o.o. - Senior software developer__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- eHurtownia - software for wholesale merchants with more then 10k users (ORACLE Database, PL/SQL, JEE, Hibernate, Seam, RichFaces, JBoss).
+- Other smaller projects including android app with backend, experience in maintaining so-called “legacy software”.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+_Completed Coursera "Functional Programming Principles in Scala"._
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2002 – 2007`
+_UMCS Lublin - Mathematics specialization in computer science._
 
 
+### Other
 
-## Awards
+English intermediate
 
-`2012`
-President, *Royal Society*, London, UK
+Driving license cat. B
 
-Associate, *French Academy of Science*, Paris, France
+### Interests
 
+Photography (especially sports ) , sports, cooking.
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 

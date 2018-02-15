@@ -63,7 +63,7 @@ body {
 
 p {
 	position: relative;
-	left: 28%;
+	left: 26%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
@@ -71,15 +71,15 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 85%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #888;
 }
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -20%;
 }
 
 
@@ -100,7 +100,7 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	/*padding-left: 1.25em;*/
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
@@ -139,21 +139,16 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
-}
-
-h2+p {
-	margin-top: 2.5em;
+	width: 10%;
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em; 
-	color: #ccc;
 	position: relative;
 	top: 1.6em;
 	text-align: right;
-	width: 18%;
+	width: 10%;
 }
 
 a {
@@ -169,7 +164,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 28%;
-	color: #ccc;
+	color: #888;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
@@ -180,7 +175,6 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
 }
 
 strong {
@@ -190,6 +184,18 @@ strong {
 #ghbutton {
 	display: none;
 	visibility: hidden;
+}
+
+#footer {
+	margin-top: 10em;
+	left: 3%;
+	right: 3%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+	position: absolute;
+	bottom: 0;
+	padding: 1rem;
 }
 
 

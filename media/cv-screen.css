@@ -186,6 +186,18 @@ strong {
 	display: none;
 }
 
+#footer {
+	margin-top: 10em;
+	left: 3%;
+	right: 3%;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
+	position: absolute;
+	bottom: 0;
+	padding: 1rem;
+}
+
 
 
 /*
