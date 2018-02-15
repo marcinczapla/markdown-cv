@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Marcin Czapla CV
-footer: I hereby give my consent to have my personal data included in the submitted documents processed by BLStream S.A., intive GmbH, intive inc., and by their customers, as deemed necessary for the purposes of the recruitment process, including processing such data in the future for the same purposes. I hereby confirm that my consent is given voluntarily and that I am aware of the rights granted to me under Personal Data Protection Act of 29 August, 1997 (Dz.U. 2016 r. item 922, as amended)
+footer: I hereby give my consent to have my personal data included in the submitted documents processed by BLStream S.A., intive GmbH, intive inc., and by their customers, as deemed necessary for the purposes of the recruitment process, including processing such data in the future for the same purposes. I hereby confirm that my consent is given voluntarily and that I am aware of the rights granted to me under Personal Data Protection Act of 29 August, 1997 (Dz.U. 2016 r. item 922, as amended)<br/>Wyrażam zgodę na przetwarzanie moich danych osobowych zawartych w złożonych dokumentach, przez BLStream S.A., intive GmbH, intive inc. , a także przez ich klientów, dla potrzeb niezbędnych do realizacji procesu rekrutacji, w tym także na przetwarzanie ich w przyszłości w tym samym celu. Niniejszą zgodę składam dobrowolnie i oświadczam, że jestem osobą świadomą uprawnień przysługujących mi na podstawie ustawy z dnia 29 sierpnia 1997 r. o Ochronie Danych Osobowych (Dz.U. 2016 poz. 922 ze zm.)
 ---
 # Marcin Czapla
 
@@ -41,7 +41,7 @@ Driving license cat. B
 
 ### Interests
 
-Photography (especially sports ) , sports, cooking.
+Photography (especially sports), volleyball, swimming, cooking.
 
 
 
